@@ -1,0 +1,5 @@
+selenium==4.28.1
+bs4==0.0.2
+SQLAlchemy==2.0.37
+psycopg2-binary==2.9.10
+alembic==1.14.1
